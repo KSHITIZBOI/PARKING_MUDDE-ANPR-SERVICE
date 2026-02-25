@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260224_200944",
+  "total_tested": 10,
+  "successful": 6,
+  "correct": 0,
+  "full_vrn_accuracy": 0.0,
+  "character_accuracy": 0.40606060606060607,
+  "average_confidence": 0.15616666666666665,
+  "total_time": 31.160885334014893,
+  "avg_time_per_image": 3.116088533401489,
+  "throughput": 0.3209151438673697
+}

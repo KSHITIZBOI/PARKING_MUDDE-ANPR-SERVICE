@@ -1,0 +1,9 @@
+# These should already be installed
+fastapi
+uvicorn
+ultralytics
+opencv-python
+easyocr
+numpy
+pillow
+python-multipart
